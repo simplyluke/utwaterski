@@ -1,0 +1,23 @@
+<header class="site-header" role="banner">
+
+  <div class="container">
+
+
+    <nav class="site-nav">
+      <div class="logo">
+       <a class="site-title" href="{{ "/" | relative_url}}">
+         <img src="{{site.url}}/assets/images/logo-small.png" alt="Texas Water Ski">
+       </a>
+      </div>
+      <div class="pages">
+        {% for my_page in site.pages %}
+        {% if my_page.title %}
+        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</header>

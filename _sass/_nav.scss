@@ -1,0 +1,32 @@
+.site-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  background-color: white;
+
+}
+.site-nav {
+  display: block;
+  .logo {
+    display: inline-block;
+    img {
+      height: 75px;
+      width: auto;
+    }
+  }
+  .pages {
+    display: inline-block;
+    float: right;
+    .page-link {
+      margin-top: 22px;
+      display: inline-block;
+      color: $orange; 
+      text-decoration: none;
+      font-size: 1.3em;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
