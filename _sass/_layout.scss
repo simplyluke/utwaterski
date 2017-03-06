@@ -1,5 +1,54 @@
+$footer-height: 50px;
 body {
   margin-top: 75px;
+  min-height: 100vh;
+}
+.page-content {
+  min-height: 100vh;
+  margin-bottom: -$footer-height;
+  &:after {
+    content: "";
+    display: block;
+    height: $footer-height;
+  }
+
+}
+.page-section {
+  h2 {
+    text-align: center;
+  }
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.button-primary {
+  background-color: $orange !important;
+  border-color: $orange !important;
+}
+
+.site-footer{
+  height: $footer-height; 
+  background: $orange;
+  color: white;
+  padding-top: 10px;
+  a {
+    color: white;
+  }
+  .social-links {
+    text-align: right;
+    .social-icon {
+      font-size: 1.8em;
+      display: inline-block;
+      padding-left: 20px;
+    }
+  }
+}
+
+.full-image {
+  width: 100%;
+  background-size: cover;
+  background-position: top center;
+  min-height: 450px;
+
 }
 .page-head {
   width: 100%;

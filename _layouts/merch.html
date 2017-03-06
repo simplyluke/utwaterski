@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="merch">
+  <div class="container">
+    <h1>Available Team Merch</h1>
+    <p>To purchase please email: <a href="mailto:utexaswaterski@gmail.com">utexaswaterski@gmail.com</a>, you can pay and pick up at general meeting.</p>
+    <ul class="merch-list row">
+      {% for post in site.posts %}
+      <li class="three columns">
+        <div style="background-image:url({{site.url}}/assets/images/{{post.image}})" class="merch-image"></div>
+        <div class="sizes">Sizes Left: {{post.sizes}}</div>
+        <h3>
+          {{post.title}} 
+        </h3>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

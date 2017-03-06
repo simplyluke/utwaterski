@@ -1,0 +1,31 @@
+.about {
+  .events {
+    text-align: center;
+    p {text-align: left;}
+    
+    .event-image {
+      display: inline-block;
+      max-width: 300px;
+      margin: 10px auto;
+    }
+  }
+  .map-embed {
+    text-align: center;
+  }
+  .officer {
+    min-height: 200px;
+    margin-top: 35px;
+    h3 {
+      padding-top: 40px;
+    }
+  }
+  .officer-image {
+    background-position: center;
+    background-size: cover;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+  }
+  
+}
