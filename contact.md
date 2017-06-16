@@ -73,6 +73,15 @@ permalink: /contact/
       </div>
       <div class="row officer">
         <div class="three columns">
+          <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/leah.jpg)"></div>
+        </div>
+        <div class="nine columns">
+          <h3>Moneymaker - Leah Shepherd</h3>
+          <p>Short bio coming soon</p>
+        </div>
+      </div>
+      <div class="row officer">
+        <div class="three columns">
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/anna.jpg)"></div>
         </div>
         <div class="nine columns">
