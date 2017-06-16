@@ -74,3 +74,23 @@ body {
     }
   }
 }
+.officer {
+  min-height: 200px;
+  margin-top: 35px;
+  h3 {
+    padding-top: 40px;
+  }
+}
+.officer-image {
+  background-position: center;
+  background-size: cover;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  max-width: 100%;
+}
+.google-cal {
+  text-align: center;
+  margin-bottom: 35px;
+  overflow-x: scroll;
+}
