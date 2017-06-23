@@ -31,7 +31,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/lexie.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Vice President - <a href="mailto:">Lexie Scheuller</a></h3>
+          <h3>Vice President - <a href="mailto:lexieschueller82@gmail.com">Lexie Scheuller</a></h3>
           <p>Short bio coming soon</p>
         </div>
       </div>
