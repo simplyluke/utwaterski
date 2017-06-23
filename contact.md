@@ -22,8 +22,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/yoyo.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>President - Yousef Saleh</h3>
-          <p>Short bio coming soon</p>
+          <h3>President - <a href="mailto:ysaleh@utexas.edu">Yousef Saleh</a></h3>
+          <p>Yousef studies Aerospace Engineering. He's Egyptian, grew up in the UAE, and had never seen a lake before coming to Texas. He's been on the team since he landed in Austin. He usually goes by yoyo.</p>
         </div>
       </div>
       <div class="row officer">
@@ -31,7 +31,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/lexie.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Vice President - Lexie Scheuller</h3>
+          <h3>Vice President - <a href="mailto:">Lexie Scheuller</a></h3>
           <p>Short bio coming soon</p>
         </div>
       </div>
@@ -40,8 +40,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/bryce.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Treasurer - Bryce Cotner</h3>
-          <p>Short bio coming soon</p>
+          <h3>Treasurer - <a href="mailto:brycecot@utexas.edu">Bryce Cotner</a></h3>
+          <p>Bryce is currently a junior studying Electrical and Computer Engineering. He grew up in The Woodlands TX, but learned to ski at his family's lake house on lake LBJ. Besides skiing and studying, you can often find Bryce enjoying a round of golf or playing his horn with various groups on campus. Fun Fact; Bryce's favorite animal is the Quokka!</p>
         </div>
       </div>
       <div class="row officer">
@@ -49,7 +49,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/madison.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Captain - Madison Tebo</h3>
+          <h3>Captain - <a href="mailto:Mtebo5321@gmail.com">Madison Tebo</a></h3>
           <p>Short bio coming soon</p>
         </div>
       </div>
@@ -58,7 +58,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/melissa.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>PR - Melissa Tolle</h3>
+          <h3>PR - <a href="mailto:tolle_melissa@yahoo.com">Melissa Tolle</a></h3>
           <p>Short bio coming soon</p>
         </div>
       </div>
@@ -67,8 +67,8 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/mary.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Social - Mary Armeringer</h3>
-          <p>Mary is a junior studying International Security, European Studies and French. She has been on the team since spring of her freshman year. Besides water skiing, she enjoys swimming, exploring local coffee shops and watching panda videos on YouTube.</p>
+          <h3>Social - <a href="mailto:mary.ameringer@utexas.edu">Mary Armeringer</a></h3>
+          <p>Mary is a senior studying International Security, European Studies and French. She has been on the team since spring of her freshman year. Besides water skiing, she enjoys swimming, exploring local coffee shops and watching panda videos on YouTube.</p>
         </div>
       </div>
       <div class="row officer">
@@ -76,7 +76,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/leah.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Moneymaker - Leah Shepherd</h3>
+          <h3>Moneymaker - <a href="mailto:leahshep@gmail.com">Leah Shepherd</a></h3>
           <p>Short bio coming soon</p>
         </div>
       </div>
@@ -85,7 +85,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/anna.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Lake Coordinator - Anna Vivatson</h3>
+          <h3>Lake Coordinator - <a href="mailto:annavivatson@yahoo.com">Anna Vivatson</a></h3>
           <p>Short bio coming soon</p>
         </div>
       </div>
@@ -94,7 +94,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/matt.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Lake Coordinator - Matt Gurwitz</h3>
+          <h3>Lake Coordinator - <a href="mailto:mbgurwitz@gmail.com">Matt Gurwitz</a></h3>
           <p>Short bio coming soon</p>
         </div>
       </div>
@@ -103,7 +103,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/luke.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Lake Coordinator - Luke Wright</h3>
+          <h3>Lake Coordinator - <a href="mailto:lukewright@utexas.edu">Luke Wright</a></h3>
           <p>Luke studies Computer Science when he's not at the lake. He grew up in Dallas, learning to ski at Lake Texoma, and graduated from Austin High in Austin. He joined the team fall of his freshman year.</p>
         </div>
       </div>
