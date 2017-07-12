@@ -67,7 +67,7 @@ permalink: /contact/
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/mary.jpg)"></div>
         </div>
         <div class="nine columns">
-          <h3>Social - <a href="mailto:mary.ameringer@utexas.edu">Mary Armeringer</a></h3>
+          <h3>Social - <a href="mailto:mary.ameringer@utexas.edu">Mary Ameringer</a></h3>
           <p>Mary is a senior studying International Security, European Studies and French. She has been on the team since spring of her freshman year. Besides water skiing, she enjoys swimming, exploring local coffee shops and watching panda videos on YouTube.</p>
         </div>
       </div>
