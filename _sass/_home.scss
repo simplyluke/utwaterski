@@ -5,4 +5,19 @@
   .about-cta {
     text-align: center;
   }
+  .sponsors {
+    ul {
+      list-style: none;
+    }
+    li {
+      display: inline-block;
+      width: 25%;
+      text-align: center;
+      .sponsor-image {
+        margin: 0 auto;
+        max-width: 150px;
+        display: block;
+      }
+    }
+  }
 }

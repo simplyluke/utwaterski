@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 title: Contact
 permalink: /contact/
 ---
@@ -32,7 +32,7 @@ permalink: /contact/
         </div>
         <div class="nine columns">
           <h3>Vice President - <a href="mailto:lexieschueller82@gmail.com">Lexie Scheuller</a></h3>
-          <p>Short bio coming soon</p>
+          <p>Lexie is currently a junior studying Mechanical Engineering. She spent part of her childhood in the great city of Austin and part in Minnesota, 'the land of 10,000 lakes'. Her favorite days are spent waterskiing, playing volleyball, and passing out in the sun.</p>
         </div>
       </div>
       <div class="row officer">
@@ -59,7 +59,7 @@ permalink: /contact/
         </div>
         <div class="nine columns">
           <h3>PR - <a href="mailto:tolle_melissa@yahoo.com">Melissa Tolle</a></h3>
-          <p>Short bio coming soon</p>
+          <p>Melissa is a 4th year Advertising major from Round Rock, TX. She has been skiing since age 9 and when she is not out at the lake she likes to read, write, and dance at Ballet Austin.</p>
         </div>
       </div>
       <div class="row officer">
@@ -77,7 +77,7 @@ permalink: /contact/
         </div>
         <div class="nine columns">
           <h3>Moneymaker - <a href="mailto:leahshep@gmail.com">Leah Shepherd</a></h3>
-          <p>Short bio coming soon</p>
+          <p>Leah is a sophomore studying chemical engineering. She grew up in Ohio and only skied once before joining the team her freshman year. When she's not skiing or studying, she loves to swim and bake desserts with friends.</p>
         </div>
       </div>
       <div class="row officer">
@@ -95,7 +95,7 @@ permalink: /contact/
         </div>
         <div class="nine columns">
           <h3>Lake Coordinator - <a href="mailto:mbgurwitz@gmail.com">Matt Gurwitz</a></h3>
-          <p>Short bio coming soon</p>
+          <p>Matt is a junior studying textiles and apparel, who joined the team fall of sophomore year. He learned to ski at his grandparents lake house. In his free time he is a member of the Sigma Alpha Mu fraternity.</p>
         </div>
       </div>
       <div class="row officer">
