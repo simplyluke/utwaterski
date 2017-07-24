@@ -86,7 +86,7 @@ permalink: /contact/
         </div>
         <div class="nine columns">
           <h3>Lake Coordinator - <a href="mailto:annavivatson@yahoo.com">Anna Vivatson</a></h3>
-          <p>Short bio coming soon</p>
+          <p>Grew up with a boating family but had never even known about competitive waterskiing, but is so glad she discovered UT's team. She enjoys hiking, hanging out at the lake, and eating cereal. She will be a sophomore this year pursuing a nutrition degree</p>
         </div>
       </div>
       <div class="row officer">
