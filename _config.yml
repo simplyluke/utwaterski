@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Texas Water Ski 
+title: Texas Water Ski
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The University of Texas at Austin Collegiate Water Ski Team
@@ -22,9 +22,12 @@ url: "http://texaswaterski.org" # the base hostname & protocol for your site, e.
 
 # Build settings
 markdown: kramdown
-#theme: 
+#theme:
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+collections:
+  category:
+    output: true 
