@@ -104,7 +104,7 @@ permalink: /contact/
         </div>
         <div class="nine columns">
           <h3>Lake Coordinator - Austin Schiffman</h3>
-          <p>Austin was new to the sport when he joined or some and grew to love the sport and the team.</p>
+          <p>Austin is a Physics major from Dallas who's been on the team since Spring 2017. Prior to joining the team he had never seen a waterski but he grew to love the sport and the team.</p>
         </div>
       </div>
     </div>
