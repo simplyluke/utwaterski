@@ -12,14 +12,22 @@
       list-style: none;
       column-count: 4;
     }
+    @media screen and (max-width: 760px) {
+      ul {
+        column-count: 1;
+      }
+    }
     li {
       // display: inline-block;
       // width: 25%;
       text-align: center;
+      a {
+        display: block;
+      }
       .sponsor-image {
         margin: 0 auto;
-        max-width: 150px;
-        display: block;
+        width: 100%;
+        display: inline-block;
       }
     }
   }
