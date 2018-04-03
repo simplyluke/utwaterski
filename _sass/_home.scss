@@ -10,10 +10,11 @@
     margin-bottom: 75px;
     ul {
       list-style: none;
+      column-count: 4;
     }
     li {
-      display: inline-block;
-      width: 25%;
+      // display: inline-block;
+      // width: 25%;
       text-align: center;
       .sponsor-image {
         margin: 0 auto;
