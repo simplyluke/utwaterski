@@ -16,7 +16,7 @@ permalink: /contact/
     </div>
     <hr>
     <div class="page-section">
-      <h2>2017 Officers</h2>
+      <h2>2018 Officers</h2>
       <div class="row officer">
         <div class="three columns">
           <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/bryce.jpg)"></div>
@@ -64,11 +64,10 @@ permalink: /contact/
       </div>
       <div class="row officer">
         <div class="three columns">
-          <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/avery.jpg)"></div>
+          <div class="officer-image" style="background-image: url()"></div>
         </div>
         <div class="nine columns">
-          <h3>Social - <a href="mailto:averyc.little@me.com">Avery Little</a></h3>
-          <p>Avery is a freshman trying to survive and thrive through her first year at UT Austin! Although she has been skiing as soon as her feet could fit in skis, her experience on the team was her first with competitive skiing. In her free time she enjoys being outside, hanging out with friends, and reading a good book. She is currently an International Relations major interested in one day advocating for globally for women and children's rights.</p>
+          <h3>Social - <a href="">Colton Beyer</a></h3>
         </div>
       </div>
       <div class="row officer">
@@ -100,11 +99,10 @@ permalink: /contact/
       </div>
       <div class="row officer">
         <div class="three columns">
-          <div class="officer-image" style="background-image: url({{site.url}}/assets/images/members/austin.jpg)"></div>
+          <div class="officer-image" style="background-image: url()"></div>
         </div>
         <div class="nine columns">
-          <h3>Lake Coordinator - Austin Schiffman</h3>
-          <p>Austin is a Physics major from Dallas who's been on the team since Spring 2017. Prior to joining the team he had never seen a waterski but he grew to love the sport and the team.</p>
+          <h3>Lake Coordinator - Duncan Morgan</h3>
         </div>
       </div>
     </div>
